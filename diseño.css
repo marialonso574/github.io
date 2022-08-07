@@ -1,0 +1,84 @@
+body{
+  background-image:url(wooden-floor-1853417_1920.jpg);
+  color:black;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+h1{
+  font-weight: bold;
+  letter-spacing: 3px;
+  font-size: 50px;
+  color: whitesmoke;
+  width: auto;
+  background-color: rgba(1, 204, 177, 0.5);
+}
+h2{
+  font-weight:lighter;
+  letter-spacing: 3px;
+  font-size: 45px;
+  color: whitesmoke;
+  font-weight: bold;
+  background-color: rgba(1, 204, 177, 0.5);
+}
+h3{
+  font-weight:lighter;
+  letter-spacing: 3px;
+  font-size: 45px;
+  color: whitesmoke;
+  font-weight: bold;
+  background-color: rgba(1, 204, 177, 0.5);
+}
+h4{
+  font-weight:lighter;
+  letter-spacing: 3px;
+  font-size: 45px;
+  color: whitesmoke;
+  font-weight: bold;
+  background-color: rgba(1, 204, 177, 0.5);
+}
+p2{
+  letter-spacing: 2px;
+  font-size: 24px;
+  color: whitesmoke;
+  font-weight: bold;
+}
+p3{
+  letter-spacing: 2px;
+  font-size: 24px;
+  color: whitesmoke;
+  font-weight: bold;
+}
+p4{
+  letter-spacing: 2px;
+  font-size: 24px;
+  color: whitesmoke;
+  font-weight: bold;
+}
+p{
+  letter-spacing: 2px;
+  font-size: 24px;
+  color: whitesmoke;
+  font-weight: bold;
+}
+p5{
+  font-weight: bolder;
+  letter-spacing: 3px;
+  font-size: 19px;
+  color: white ;
+}
+p6{
+  font-weight: bolder;
+  letter-spacing: 3px;
+  font-size: 18px;
+  color: white;
+}
+li {
+  font-size: 20px;
+  color: rgba(110, 51, 23, 0.11);
+  font-weight: bold;
+}
+
